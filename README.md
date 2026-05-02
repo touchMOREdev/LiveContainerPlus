@@ -1,11 +1,11 @@
 <div align="center">
-   <img width="217" height="217" src="./screenshots/livecontainer_icon.png" alt="Logo">
+   <img width="217" height="217" src="./screenshots/livecontainer_icon.png" alt="LC Logo">
 </div>
    
 
 <div align="center">
-  <h1><b>LiveContainer</b></h1>
-  <p><i>An app launcher that runs iOS apps without actually installing them! </i></p>
+  <h1><b>LiveContainer+</b></h1>
+  <p><i>An app launcher that runs iOS & iPhoneOS apps without actually installing them! </i></p>
 </div>
 <h6 align="center">
 
